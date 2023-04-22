@@ -1,3 +1,4 @@
 saru
 cloned..
 commmit
+pull
